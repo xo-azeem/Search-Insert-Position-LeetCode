@@ -22,5 +22,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Search-Insert-Position-LeetCode/assets/171427226/f176143c-8435-4322-b308-125448c64db6)
 
-  Time complexity: O(n).</br>Space complexity: O(1).
+  Time complexity: O(log(n)).</br>Space complexity: O(1).
 </div>
